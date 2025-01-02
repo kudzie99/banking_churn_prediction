@@ -105,21 +105,35 @@ Results are color-coded for better readability:
 Green for "Will Not Churn."
 Red for "Will Churn."
 
-Input Features
-Feature Name |	Description
+### Input Features
+#### Feature Name |	Description
+
 CreditScore	Customer's credit score (numeric).
+
 Age	Age of the customer (numeric).
+
 Tenure	Number of years the customer has been with the bank.
+
 Balance	Account balance of the customer (numeric).
+
 NumOfProducts	Number of products the customer uses.
+
 HasCrCard	Whether the customer has a credit card (binary: 0/1).
+
 IsActiveMember	Whether the customer is an active member (binary: 0/1).
+
 EstimatedSalary	Customer's estimated salary (numeric).
+
 Complain	Whether the customer has filed a complaint (binary: 0/1).
+
 Satisfaction_Score	Customer's satisfaction score (numeric).
+
 Point_Earned	Loyalty points earned by the customer (numeric).
+
 Card_Tier	Card type tier: SILVER (1), GOLD (2), DIAMOND (3), PLATINUM (4).
+
 Geography	Customer's location: France, Germany, or Spain.
+
 Gender	Customer's gender: Male or Female.
 
 Future Improvements
@@ -148,7 +162,7 @@ Acknowledgments
 Thanks to open-source libraries like Flask, Bootstrap, and scikit-learn for making this project possible.
 Inspired by the need for actionable insights in customer retention for the banking sector.
 
-Contact
+## Contact
 For any questions or suggestions, feel free to contact me:
 
 Email: kudzaikaremb@gmail.com
